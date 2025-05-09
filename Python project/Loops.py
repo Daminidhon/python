@@ -1,6 +1,9 @@
+
 #for loop
+
 '''for i in range(100,2,-2):
-    print(i)'''
+    print(i)
+'''
 
 #while loop
 #print 1 to 10 number
