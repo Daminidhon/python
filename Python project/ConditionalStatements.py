@@ -1,3 +1,11 @@
+#conditional statement
+# if  id..else   elif
+
+#print a person is eligible for a vote or not
+
+
+
+
 
 #Example 1
 a=30

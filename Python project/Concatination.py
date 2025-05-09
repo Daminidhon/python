@@ -1,18 +1,15 @@
 
 print(10+10)     # (+) is a concatitanation operator , ans is 20 means it is valid
 print(10.5+10.5)  #valid
-print("Damini"+"Dipesh")   #valid
+print('Damini'+'Dipesh')   #valid
 print(10+10.5)      #valid
-print(True+5)      #6 valid true means 1
+print(True+5)      # 6 valid true means 1
 print(True+True)
 print(False+10)
-    #print (welcome+10) unsupported oprand type
-   #print(true+welcome)  unsuported oprand type
+    #print (welcome+10) unsupported oprand type- not valid bec 2 values are differant type
+   #print(true+welcome)  unsuported oprand type  not valid bec 2 values are differant type
 
   # concatination is possible in python within the same type of data
-
-
-
 
 '''
 # find the count of odd numbers and
